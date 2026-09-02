@@ -1,6 +1,6 @@
 import requests
 
-api_key = "fe054a76d08c9750a21e0b5b57169331"
+api_key = "YOUR_API_KEY"
 
 user_input = input("Enter movie category (popular, top_rated, upcoming, now_playing): ")
 
